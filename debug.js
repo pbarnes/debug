@@ -3,7 +3,7 @@
  * Expose `debug()` as the module.
  */
 
-module.exports = debug;
+if (typeof module !== 'undefined') module.exports = debug;
 
 /**
  * Create a debugger with the given `name`.
