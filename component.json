@@ -1,8 +1,7 @@
 {
-  "name": "debug",
-  "repo": "pbarnes/debug",
-  "description": "forked from visionmedia/debug small debugging utility",
-  "version": "0.7.3",
+  "repo": "visionmedia/debug",
+  "description": "small debugging utility",
+  "version": "0.7.4",
   "keywords": ["debug", "log", "debugger"],
   "scripts": ["index.js", "debug.js"],
   "dependencies": {}
