@@ -1,4 +1,5 @@
 {
+  "name": "debug",
   "repo": "visionmedia/debug",
   "description": "small debugging utility",
   "version": "0.7.4",
