@@ -1,20 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "debug",
-<<<<<<< HEAD
   "repo": "visionmedia/debug",
   "description": "small debugging utility",
   "version": "0.7.4",
-=======
-  "repo": "pbarnes/debug",
-  "description": "forked from visionmedia/debug small debugging utility",
-  "version": "0.7.3",
->>>>>>> Updated component.json so that bower will pull it correctly.
-=======
-  "repo": "visionmedia/debug",
-  "description": "small debugging utility",
-  "version": "0.7.4",
->>>>>>> Resetting component.json as it now has nothing to do with Bower (which uses bower.json now).
   "keywords": ["debug", "log", "debugger"],
   "main": "debug.js",
   "scripts": ["debug.js"],
